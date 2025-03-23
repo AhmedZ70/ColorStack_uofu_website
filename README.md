@@ -17,16 +17,7 @@ project-folder/
 ├── css/
 │   └── style.css      # Custom styles
 └── images/            # Image assets
-    ├── logo.png       # ColorStack chapter logo
-    ├── uofu-logo.png  # University of Utah logo
-    ├── about.jpg      # About section image
-    ├── board1.jpg     # Board member 1
-    ├── board2.jpg     # Board member 2
-    ├── board3.jpg     # Board member 3
-    ├── board4.jpg     # Board member 4
-    ├── event1.jpg     # Event image 1
-    ├── event2.jpg     # Event image 2
-    └── event3.jpg     # Event image 3
+
 ```
 
 ## Features
